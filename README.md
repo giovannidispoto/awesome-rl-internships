@@ -7,8 +7,8 @@ In this list there are both companies that offers internships/jobs or that might
 - [AIKO](https://www.aikospace.com) Torino, Italy
 - [DeepMind](https://www.deepmind.com) London, UK / Edmonton, Canada / Mountain View, USA / Paris, France / New York, US
 - [Leonardo Labs](https://www.leonardo.com/it/innovation-technology/leonardo-labs) Genova, Italy
-- [Mercedes-Benz](https://group.mercedes-benz.com/en/) 
-- [Meta AI](https://ai.facebook.com) Germany
+- [Mercedes-Benz](https://group.mercedes-benz.com/en/) Germany
+- [Meta AI](https://ai.facebook.com) 
 - [Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=Reinforcement%20Learning) United States / Canada
 - [Sony AI](https://ai.sony/about/) Tokyo / United States / Zurich, Switzerland
 
