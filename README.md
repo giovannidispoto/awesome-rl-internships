@@ -9,7 +9,7 @@ In this list there are both companies that offers internships/jobs or that might
 - [Leonardo Labs](https://www.leonardo.com/it/innovation-technology/leonardo-labs) Genova, Italy
 - [Meta AI](https://ai.facebook.com) 
 - [Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=Reinforcement%20Learning) United States / Canada
-- [Sony AI](https://ai.sony/about/) Tokyo / United States/ Zurich, Switzerland
+- [Sony AI](https://ai.sony/about/) Tokyo / United States / Zurich, Switzerland
 
 
 ### Universities Research Labs
