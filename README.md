@@ -1,7 +1,6 @@
 # awesome-rl-internships
-List of companies/research labs that offers internships in the Reinforcement Learning field.
-
 This repository comes up since I just found out that it is not easy to find out companies or research labs that are doing work in this field.
+In this list there are both companies that offers internships/jobs or that might offer an internship/jobs (since information may not availabe on their webistes).
 
 ### Companies
 - [Add-For](https://www.add-for.com) Torino, Italy
