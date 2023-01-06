@@ -6,6 +6,7 @@ In this list there are both companies that offers internships/jobs or that might
 - [Add-For](https://www.add-for.com) Torino, Italy
 - [AIKO](https://www.aikospace.com) Torino, Italy
 - [DeepMind](https://www.deepmind.com) London, UK / Edmonton, Canada / Mountain View, USA / Paris, France / New York, US
+- [Huawei](https://career.huawei.com/reccampportal/portal5/index.html)
 - [Leonardo Labs](https://www.leonardo.com/it/innovation-technology/leonardo-labs) Genova, Italy
 - [Mercedes-Benz](https://group.mercedes-benz.com/en/) Germany
 - [Meta AI](https://ai.facebook.com) 
