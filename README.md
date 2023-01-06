@@ -1,2 +1,2 @@
-# awesome-rl-internship
-List of Internship available in Reinforcement Learning field
+# awesome-rl-internships
+List of Internships available in Reinforcement Learning field
